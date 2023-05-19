@@ -1,0 +1,2 @@
+C:\Users\o\Desktop\info\Sem 2\POO\laboratorul4\laboratorul4\x64\Debug\laboratorul4.vcxproj.AssemblyReference.cache
+C:\Users\o\Desktop\info\Sem 2\POO\laboratorul4\laboratorul4\x64\Debug\laboratorul4.vcxproj.SuggestedBindingRedirects.cache
