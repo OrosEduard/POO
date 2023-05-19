@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Bostan\source\repos\calculator\CppCLR_WinFormsProject2\Form1.h(429,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinFormsProject2.vcxproj -> C:\Users\Bostan\source\repos\calculator\Debug\CppCLR_WinFormsProject2.exe
